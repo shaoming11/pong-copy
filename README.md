@@ -1,2 +1,2 @@
 # pong-copy
-Very dirty code, next game will be more object oriented
+code will be more object oriented next time
